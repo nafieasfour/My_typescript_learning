@@ -1,0 +1,13 @@
+- Static typing
+- Type inference
+- Interfaces and type aliases
+- Enhanced IDE support
+- Type safety
+- Generics
+- Enum support
+- Access modifiers
+- Support for modern JavaScript features
+- Improved module and namespace organization
+- Strict mode
+- Experimental decorators
+- Full compatibility with JavaScript
